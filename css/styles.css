@@ -1,0 +1,31 @@
+#navBar{
+    width:100%;
+    justify-content: end;
+}
+.position-relative{
+    position: relative;
+}
+/* 
+.num_elm_cart{
+    position:absolute;
+    right: 0;
+    color: white;
+    border: 1px solid white;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    top: -5px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 20px;
+} */
+header {
+    min-height: 10vh;
+}
+main {
+    min-height: 70vh;
+}
+footer{
+    min-height: 20vh;
+    min-width: 100vw;
+}
